@@ -64,16 +64,153 @@ Please be familiar with the course schedule and study the assigned materials so 
 
 You are expected to take responsibility for any _unavoidable tardiness or absences_ (e.g., an off-campus job interview) by notifying me in advance whenever possible, and by consulting with a classmate to learn what was covered in the class that you missed. Those who do not prepare, contribute to discussions, complete (and hand in) assignments on time, and attend class regularly **will not** receive an A for the course.
 
-| AssignmentS | Due dateS | PORTION of grade |
-| --- | --- | --- |
-| Attendance, preparedness, and participation | Every class | 15% |
-| Short (approx. 250 words) written responses: 6 X 2.5 points | Weeks 2–10 | 15% |
-| Short (approx. 2 min.) formal oral responses: 2 X 5 points | Weeks 2 and 12 | 10% |
-| Memoir on educational history: first version | Week 4 | 5% |
-| Memoir on educational history: final version (1,000 words) | Week 6 | 10% |
-| Cultural film analysis of _Breaking Away_ | Week 9 | 10% |
-| White paper: draft proposal and annotated bibliography draft (1,000 words) | Week 11 | 5% |
-| White paper: final proposal and annotated bibliography | Week 13 | 5% |
-| White paper (1,250 words) | Week 14 or 15 | 10% |
-| Team presentation: group | Week 14 or 15 | 10% |
-| Team presentation: individual | Week 14 or 15 | 5%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+AssignmentS
+{{< thclose >}}
+{{< thopen >}}
+Due dateS
+{{< thclose >}}
+{{< thopen >}}
+PORTION of grade
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attendance, preparedness, and participation
+{{< tdclose >}}
+{{< tdopen >}}
+Every class
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Short (approx. 250 words) written responses: 6 X 2.5 points
+{{< tdclose >}}
+{{< tdopen >}}
+Weeks 2–10
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Short (approx. 2 min.) formal oral responses: 2 X 5 points
+{{< tdclose >}}
+{{< tdopen >}}
+Weeks 2 and 12
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Memoir on educational history: first version
+{{< tdclose >}}
+{{< tdopen >}}
+Week 4
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Memoir on educational history: final version (1,000 words)
+{{< tdclose >}}
+{{< tdopen >}}
+Week 6
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Cultural film analysis of _Breaking Away_
+{{< tdclose >}}
+{{< tdopen >}}
+Week 9
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+White paper: draft proposal and annotated bibliography draft (1,000 words)
+{{< tdclose >}}
+{{< tdopen >}}
+Week 11
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+White paper: final proposal and annotated bibliography
+{{< tdclose >}}
+{{< tdopen >}}
+Week 13
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+White paper (1,250 words)
+{{< tdclose >}}
+{{< tdopen >}}
+Week 14 or 15
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Team presentation: group
+{{< tdclose >}}
+{{< tdopen >}}
+Week 14 or 15
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Team presentation: individual
+{{< tdclose >}}
+{{< tdopen >}}
+Week 14 or 15
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
