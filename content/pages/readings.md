@@ -153,7 +153,7 @@ Ready4Work.MY (2013). [“Get that Job—Making Small Talk” (YouTube)](https:
 
 Colin Woodard (2011). _American Nations: A History of the Eleven Rival Regional Cultures of North America_. Viking Penguin, pp. 1﻿–19. ISBN: 9780143122029.
 
-Colin Woodard (2011). ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“The American Nations Today” (PDF of map)](http://www.colinwoodard.com/files/ColinWoodard_AmericanNations_map.pdf).
+Colin Woodard (2011). [“The American Nations Today” (PDF of map)](http://www.colinwoodard.com/files/ColinWoodard_AmericanNations_map.pdf).
 
 Gonick, pp. 1–77.
 
